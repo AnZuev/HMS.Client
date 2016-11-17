@@ -1,0 +1,11 @@
+.RoomSearchResultBlock__noRoomsFound{
+    margin-top: 20px;
+    text-align: center;
+}
+.RoomSearchResultBlock__noRoomsFound span{
+    text-align: center;
+    padding: 10px;
+    background: white;
+    display: inline-block;
+    border-radius: 6px;
+}
